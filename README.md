@@ -116,6 +116,17 @@ vote/
 │
 └── index.php
 ```
+## Captures d'écran du projet
+
+Voici quelques captures de l'application :
+
+![Accueil](assets/screenshots/img_1.png)
+![Dashboard Admin](assets/screenshots/img_2.png)
+![Gérer Candidats](assets/screenshots/img_3.png)
+![Gérer Électeurs](assets/screenshots/img_4.png)
+![Résultats](assets/screenshots/img_5.png)
+
+> Les fichiers complets se trouvent dans `assets/screenshots/`
 
 ---
 
