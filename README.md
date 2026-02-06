@@ -121,10 +121,10 @@ vote/
 Voici quelques captures de l'application :
 
 ![Accueil](assets/screenshots/img_1.png)
-![Dashboard Admin](assets/screenshots/img_2.png)
-![Gérer Candidats](assets/screenshots/img_3.png)
-![Gérer Électeurs](assets/screenshots/img_4.png)
-![Résultats](assets/screenshots/img_5.png)
+![Dashboard Admin](assets/screenshots/img_10.png)
+![Gérer Candidats](assets/screenshots/img_12.png)
+![Gérer Électeurs](assets/screenshots/img_11.png)
+![Résultats](assets/screenshots/img_18.png)
 
 > Les fichiers complets se trouvent dans `assets/screenshots/`
 
