@@ -420,5 +420,5 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin hhttps://github.com/Adam01-i/Plateforme-Vote-lectronique.git
+git remote add origin hhttps://github.com/Adam01-i/E-VOTING-PLATFORM.git
 git push -u origin main
